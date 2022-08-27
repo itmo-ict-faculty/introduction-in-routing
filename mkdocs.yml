@@ -1,0 +1,36 @@
+site_name: Introduction-in-routing
+repo_name: 'itmo-ict-faculty'
+repo_url: 'https://github.com/itmo-ict-faculty/introduction-in-routing'
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: red
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to dark mode
+    # - scheme: slate
+    #   primary: green
+    #   toggle:
+    #     icon: material/weather-night
+    #     name: Switch to light mode
+#  logo: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+#    - navigation.tabs
+#    - navigation.tabs.sticky
+    - toc.follow
+    - navigation.top
+plugins:
+  - search
+nav:
+  - Introduction: "index.md"
+  - Education:
+    - Labs: "education/labs.md"
+    - Lecture: "education/lecture.md"
+    - Additional materials: "education/additional_materials.md"
+  - Student case: 
+    - ITMO 2022/2023: "student_case/itmo2022_2023/itmo2022_2023.md"

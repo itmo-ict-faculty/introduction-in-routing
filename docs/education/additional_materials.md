@@ -9,4 +9,8 @@
 7. Конференция [Yandex nexthop 2019](https://events.yandex.ru/events/nexthop2019) **(обратите внимание на презентации к конференции)**
 8. Конференция [Yandex nexthop 2018](https://events.yandex.ru/events/nexthop2018) **(обратите внимание на презентации к конференции)**
 
+### Containerlab
+1. [Простое развёртывание сетевой лабы на базе контейнеров](https://habr.com/ru/post/682974/)
+2. [Сайт проекта containerlab](https://containerlab.dev)
+
 ## Литература

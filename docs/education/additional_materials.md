@@ -12,6 +12,7 @@
 ### Containerlab
 1. [Простое развёртывание сетевой лабы на базе контейнеров](https://habr.com/ru/post/682974/)
 2. [Сайт проекта containerlab](https://containerlab.dev)
+3. YouTube [Containerlab - a Modern way to Deploy Networking Topologies for Labs, CI and Testing - Roman Dodin](https://www.youtube.com/watch?v=snQTlFahY1c)
 
 ### Просто интересное
 1. [10 отличных Github репозиториев для разработчиков (часть 1)](https://habr.com/ru/post/492040/)

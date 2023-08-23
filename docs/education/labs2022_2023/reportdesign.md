@@ -2,7 +2,7 @@
 
 ## Правила оформления
 Все отчеты по лабораторным работам будут приниматься в формате github репозиториев, где название репозитория отражает следующую информацию: учебный год проведения курса, название курса, номер группы, фамилия, имя и отчетство. 
-Например: `2022_2023-introduction_in_routing-k66666-filianin_i_v`
+Например: `2023_2024-introduction_in_routing-k66666-filianin_i_v`
 
 > Зачем это нужно? Мы планируем по окончанию курса сохранить результаты ваших работ в данном репозитории, для истории и для того чтобы следующие потоки студентов могли брать опыт из ваших работ если это потребуется.
 
@@ -19,12 +19,12 @@
 University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)
-Year: 2022/2023
+Year: 2023/2024
 Group: K66666
 Author: Filianin Ivan Victorovich
 Lab: Lab1
-Date of create: 20.09.2022
-Date of finished: 31.09.2022
+Date of create: 20.09.2023
+Date of finished: 31.09.2023
 ```
 
 > Важно понимать, что "Date of create:" это дата начала работы над лабораторной работой, а "Date of finished:" это дата когда вы защитили своб лабораторную работу перед преподавателем. 
